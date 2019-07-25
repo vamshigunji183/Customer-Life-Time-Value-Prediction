@@ -1,5 +1,5 @@
 # Customer-Life-Time-Value-Prediction
-<<<<<<< HEAD
+
 
 <img src="./Presentation/Images/CLV/Slide1.JPG" align= 'center' width="100%">
 <img src="./Presentation/Images/CLV/Slide2.JPG" align= 'center' width="100%">
